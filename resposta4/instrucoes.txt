@@ -1,0 +1,5 @@
+A consulta se encontra em "consulta.sql"
+disponibilizei duas opções para visualizar o desenho das tabelas, 
+a primeira sendo o PDF e a segunda sendo de forma mais completa
+através do arquivo index.html da pasta designBd
+Abas as opões feitas através de um programa

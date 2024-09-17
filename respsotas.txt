@@ -1,0 +1,20 @@
+1) 77
+
+2.a) Está somando 2 partindo do número 1, o próximo é 7
+2.b) Está dobrando o valor partindo do 2, o próximo é 128
+2.c) Está somando os números ímpares partindo do número 0, o próximo é 49
+2.d) Está elevando ao quadrado os números pares partindo do 2, o próximo é 100
+2.e) Está somando o número atual com o seu antecessor sendo que repete o 1 por não alterar o número com a soma de 0, o próximo é 13
+2.f) Está listando os números que a primeira letra é o D, o próximo é 200
+
+3) Executar o arquivo faturamentoDiario.js alterando os valores do array vetorFaturamento ou exportando a função
+
+4) Resposta se encontra na pastas "resposta4"
+
+5) carro levara 1 hora e 38 minutos enquanto o caminhão levara  1 hora e 33 minutos. Portanto o caminhão chegara primeiro por uma diferença de 5m.
+
+Explicação:
+
+Usei a formula: tempo = distancia/velocidade 
+pegando as 4 primeiras casas decimais e multiplicando por 60 para chegar nos minutos
+com isso feito foi apenas somar tempoDoCarro+(5*3) para saber o tempo com cada pedágio 
